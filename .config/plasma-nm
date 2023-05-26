@@ -1,0 +1,7 @@
+[General]
+AirplaneModeEnabled=false
+HotspotConnectionPath=
+HotspotName=gaderypoluki
+HotspotPassword=12345678
+ManageVirtualConnections=false
+UnlockModemOnDetection=true

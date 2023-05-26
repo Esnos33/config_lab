@@ -1,0 +1,95 @@
+00:00:00.000257 main     VirtualBox XPCOM Server 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:49:14) release log
+00:00:00.000259 main     Log opened 2023-05-05T17:44:58.055544000Z
+00:00:00.000260 main     Build Type: release
+00:00:00.000262 main     OS Product: Linux
+00:00:00.000264 main     OS Release: 6.3.1-arch1-1
+00:00:00.000265 main     OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 01 May 2023 17:42:39 +0000
+00:00:00.000286 main     DMI Product Name: INVA
+00:00:00.000297 main     DMI Product Version: INVALID
+00:00:00.000301 main     Firmware type: UEFI
+00:00:00.001369 main     Secure Boot: Disabled
+00:00:00.001445 main     Host RAM: 19878MB (19.4GB) total, 14508MB (14.1GB) available
+00:00:00.001449 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001449 main     Process ID: 18334
+00:00:00.001450 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003245 main     IPC socket path: /tmp/.vbox-oskarw-ipc/ipcd
+00:00:00.111525 nspr-2   VirtualBox: object creation starts
+00:00:00.111725 nspr-2   Home directory: '/home/oskarw/.config/VirtualBox'
+00:00:00.112091 nspr-2   Loading settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.149703 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.150984 nspr-2   HostDnsMonitor: initializing
+00:00:00.151329 nspr-2   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.151360 nspr-2   HostDnsMonitor: updating information
+00:00:00.151404 nspr-2   HostDnsMonitor: old information
+00:00:00.151415 nspr-2     no server entries
+00:00:00.151424 nspr-2     no domain set
+00:00:00.151430 nspr-2     no search string entries
+00:00:00.151438 nspr-2   HostDnsMonitor: new information
+00:00:00.151446 nspr-2     server 1: 192.168.0.1
+00:00:00.151454 nspr-2     no domain set
+00:00:00.151462 nspr-2     no search string entries
+00:00:00.155289 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.155457 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.155545 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.156463 nspr-2   Loading settings file "/home/oskarw/VirtualBox VMs/endavor_proba/endavor_proba.vbox" with version "1.19-linux"
+00:00:00.157403 nspr-2   VirtualBox: object created
+00:00:01.086247 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:00:01.088307 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.159507 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:01.161143 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:01.364611 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:00:01.368832 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:00:05.115276 nspr-2   Launched VM: 2013274448 pid: 18366 (0x47be) frontend: GUI/Qt name: endavor_proba
+00:00:05.160692 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:05.162174 nspr-5   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:05.210898 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:00:05.212319 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:00:05.615821 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The virtual machine 'endavor_proba' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:05.727553 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:05.728870 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:05.767511 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:00:05.769441 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:12:31.137060 dns-monitor HostDnsMonitor: updating information
+00:12:31.137273 dns-monitor HostDnsMonitor: old information
+00:12:31.137286 dns-monitor   server 1: 192.168.0.1
+00:12:31.137293 dns-monitor   no domain set
+00:12:31.137298 dns-monitor   no search string entries
+00:12:31.137303 dns-monitor HostDnsMonitor: new information
+00:12:31.137308 dns-monitor   no server entries
+00:12:31.137312 dns-monitor   no domain set
+00:12:31.137316 dns-monitor   no search string entries
+00:13:13.003367 nspr-5   Saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:13:13.006261 nspr-5   Finished saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml"
+00:13:28.393740 nspr-3   Saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:13:28.407245 nspr-3   Finished saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml"
+00:14:16.014789 nspr-4   Saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:14:16.024982 nspr-4   Finished saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml"
+00:14:32.687151 nspr-4   Saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:14:32.690461 nspr-4   Finished saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml"
+00:14:49.687659 nspr-4   Saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:14:49.697101 nspr-4   Finished saving settings file "/home/oskarw/.config/VirtualBox/VirtualBox.xml"
+00:16:35.645804 dns-monitor NAT: resolv.conf: nameserver 192.168.0.1
+00:16:35.645873 dns-monitor HostDnsMonitor: updating information
+00:16:35.645926 dns-monitor HostDnsMonitor: old information
+00:16:35.645941 dns-monitor   no server entries
+00:16:35.645953 dns-monitor   no domain set
+00:16:35.645965 dns-monitor   no search string entries
+00:16:35.645976 dns-monitor HostDnsMonitor: new information
+00:16:35.645987 dns-monitor   server 1: 192.168.0.1
+00:16:35.646001 dns-monitor   no domain set
+00:16:35.646011 dns-monitor   no search string entries
+00:18:50.184491 dns-monitor HostDnsMonitor: updating information
+00:18:50.184536 dns-monitor HostDnsMonitor: old information
+00:18:50.184545 dns-monitor   server 1: 192.168.0.1
+00:18:50.184551 dns-monitor   no domain set
+00:18:50.184569 dns-monitor   no search string entries
+00:18:50.184574 dns-monitor HostDnsMonitor: new information
+00:18:50.184579 dns-monitor   no server entries
+00:18:50.184584 dns-monitor   no domain set
+00:18:50.184588 dns-monitor   no search string entries
+00:21:07.301109 main     VirtualBox: object deletion starts
+00:21:07.301200 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/oskarw/VirtualBox VMs/endavor_proba/endavor_proba.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:21:07.302845 main     HostDnsMonitor: shutting down ...
+00:21:07.315101 main     HostDnsMonitor: shut down
+00:21:07.325900 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:21:07.326308 main     VirtualBox: object deleted

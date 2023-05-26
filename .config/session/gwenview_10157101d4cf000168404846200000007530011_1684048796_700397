@@ -1,0 +1,16 @@
+[1]
+Page=2
+Url=file:///home/oskarw/Downloads/updt.png
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1920x1080 screen: Height=839
+1920x1080 screen: Width=721
+1920x1080 screen: XPosition=637
+1920x1080 screen: YPosition=116
+ClassName=Gwenview::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAtEAAAL3AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+eDP-1=eDP-1

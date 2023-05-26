@@ -1,0 +1,69 @@
+{
+   "checksum": "d1bc1bce3f5c3a9e54beee8b59221d32",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13328044282347104",
+            "date_last_used": "13329570090564505",
+            "guid": "14a33a6c-7391-45f0-92dd-8287a9481d2f",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "• Discord | Znajomi",
+            "type": "url",
+            "url": "https://discord.com/channels/@me"
+         }, {
+            "date_added": "13329169654277601",
+            "date_last_used": "0",
+            "guid": "45e873b6-4372-4703-a0fe-eeacb9f25074",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "diep.io",
+            "type": "url",
+            "url": "https://diep.io/"
+         }, {
+            "date_added": "13329518219543597",
+            "date_last_used": "0",
+            "guid": "9d3a5b11-cfbc-4073-aa01-1fbd39b9f6ed",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "google snake - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=google+snake&ei=hL1vZLPYOrCorgTXur7gDw&ved=0ahUKEwizqtisoJH_AhUwlIsKHVedD_wQ4dUDCA8&uact=5&oq=google+snake&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEMgUILhCABDIFCAAQgAQ6CgguEIoFENQCEEM6DQguEIoFEMcBENEDEEM6CwguEIAEEMcBENEDOgcIABCABBAKSgQIQRgAUABYsRFg-RJoAHABeACAAYIBiAGbB5IBBDEwLjKYAQCgAQHAAQE&sclient=gws-wiz-serp"
+         } ],
+         "date_added": "13328044117989585",
+         "date_last_used": "0",
+         "date_modified": "13329518219543597",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13328044117989587",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13328044117989589",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
