@@ -1,7 +1,0 @@
-2023/05/17-12:41:32.075 1fcb Reusing MANIFEST /home/oskarw/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/17-12:41:32.075 1fcb Recovering log #3
-2023/05/17-12:41:32.078 1fcb Reusing old log /home/oskarw/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2023/05/17-12:41:42.579 1fcc Level-0 table #5: started
-2023/05/17-12:41:42.591 1fcc Level-0 table #5: 422088 bytes OK
-2023/05/17-12:41:42.593 1fcc Delete type=0 #3
-2023/05/17-12:41:42.594 1fcc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
